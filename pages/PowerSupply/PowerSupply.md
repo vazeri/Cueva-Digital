@@ -7,11 +7,15 @@ permalink: PowerSupply.html
 folder: PowerSupply
 ---
 
+ # Introduction
 
 Why do it for 3 when we can design for 10?! At college we were in charge of designing a 3 Amp power supply, but I was seeking for a challenge, not a grade!
 
+ # Design
 Overcomplicating this kind of “simple” projects can make your life a bit harder but way more exiting, and the rewards just have no price, you will also learn way more than doing a small 3 Amp power supply, fortunately I had a good and experienced mentor to guide me, Lopez Hernandez Jose Antonio from the Investigation and Technologic Innovation Center (CIITEC) in Mexico City.
 
+ # Conclusion 
+ 
 I completed the project in time thanks to some administrative and economic planning technics , the right tools and a bit of will power
 
 A linear power supply takes the 120vCA 60 Hz mains power, steps the voltage down through a transformer, rectifies, filters, and regulates it. It's simple and robust; the main problem is that it's inefficient. You need a big, heavy transformer to handle the current, high current diodes, huge electrolytic capacitors, and lots of thermal dissipation for your Darlington arrays. It can also become prohibitively expensive to build high power linear supplies, even if they're easy to design. (This one was around $6,500 MXN pesos, around 433 USD considering 1 USD = 15 MXN pesos)
