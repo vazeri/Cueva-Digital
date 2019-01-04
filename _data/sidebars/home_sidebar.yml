@@ -2,7 +2,7 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  levels: 
   folders:
 
   - title: Products
