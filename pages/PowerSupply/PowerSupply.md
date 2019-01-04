@@ -29,3 +29,22 @@ The guide is a bit long, as I said please beware, if you find any grammar , calc
 Along the start of each step I will be adding underlined text where I warn about what I did wrong , this bold underlined text can also be an upgrade note to do what I did in a better way, with some other ways I have learned over the time after completing the project
 
 Every single file used to make the power supply is in my GitHub Repository feel free to use it at your discretion, hopefully you can do it better, smaller, cheaper, or why not even bigger!
+
+
+
+{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+
+## Build the Theme
+
+Follow these instructions to build the theme.
+
+### 1. Download the theme
+
+First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
+
+### 2. Install Jekyll
+
+If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
+
+* [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
+* [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
