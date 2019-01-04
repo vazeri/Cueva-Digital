@@ -7,14 +7,14 @@ permalink: PowerSupply.html
 folder: PowerSupply
 ---
 
- # Introduction
+ ## Introduction
 
 Why do it for 3 when we can design for 10?! At college we were in charge of designing a 3 Amp power supply, but I was seeking for a challenge, not a grade!
 
- # Design
+ ## Design
 Overcomplicating this kind of “simple” projects can make your life a bit harder but way more exiting, and the rewards just have no price, you will also learn way more than doing a small 3 Amp power supply, fortunately I had a good and experienced mentor to guide me, Lopez Hernandez Jose Antonio from the Investigation and Technologic Innovation Center (CIITEC) in Mexico City.
 
- # Conclusion 
+ ## Conclusion 
  
 I completed the project in time thanks to some administrative and economic planning technics , the right tools and a bit of will power
 
