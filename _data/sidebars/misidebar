@@ -1,0 +1,22 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: DIY 10A Power Supply
+  levels: one
+  folders:
+
+  - title: Menu
+    output: web
+    folderitems:
+    - title: Introducción
+      url: /PS1.html
+      output: web
+    - title: Diseño
+      url: /PS2.html
+      output: web
+    - title: Construcción
+      url: /PS2.html
+      output: web
+    - title: Pruebas
+      url: /PS3.html
+      output: web
