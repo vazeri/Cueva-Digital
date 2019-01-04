@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: Introducción
-      url: /PS1.html
+      url: /PowerSupply.html
       output: web
     - title: Diseño
       url: /PS2.html
