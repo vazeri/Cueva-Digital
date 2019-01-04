@@ -7,8 +7,6 @@ permalink: index.html
 summary: These links will help you navigate faster about the content on this section.
 ---
 <div class="row">
-        <div class="col-lg-12">
-        </div>
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -44,7 +42,7 @@ summary: These links will help you navigate faster about the content on this sec
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-file-alt fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-file fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
