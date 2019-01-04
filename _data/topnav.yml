@@ -15,7 +15,7 @@ topnav_dropdowns:
     - title: Proyectos
       folderitems:
         - title: 10A Power Supply
-          url: /mydoc_introduction.html
+          url: /PowerSupply.html
         - title: Proyecto 1
           url: /p1_landing_page.html
         - title: Proyecto 2
