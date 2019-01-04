@@ -5,7 +5,11 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: These links will help you navigate faster about the content on this section.
----
+--- 
+   
+{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+
+
 <div class="row">
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
@@ -22,6 +26,7 @@ summary: These links will help you navigate faster about the content on this sec
                 </div>
             </div>
         </div>
+		
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -37,6 +42,7 @@ summary: These links will help you navigate faster about the content on this sec
                 </div>
             </div>
         </div>
+		
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -51,7 +57,8 @@ summary: These links will help you navigate faster about the content on this sec
                     <a href="#" class="btn btn-primary">Read</a>
                 </div>
             </div>
-        </div>
+        </div
+		
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -68,10 +75,8 @@ summary: These links will help you navigate faster about the content on this sec
             </div>
         </div>
     </div>
-    
-    
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
-
+   
+   
 ## Build the Theme
 
 Follow these instructions to build the theme.
