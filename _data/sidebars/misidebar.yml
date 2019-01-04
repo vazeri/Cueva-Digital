@@ -9,13 +9,13 @@ entries:
     output: web
     folderitems:
     - title: Introducción
-      url: https://vazeri.github.io/cueva-digital/PowerSupply.html#introduction
+      url: /PowerSupply.html#introduction
       output: web
     - title: Diseño
-      url: https://vazeri.github.io/cueva-digital/PowerSupply.html#design
+      url: /PowerSupply.html#design
       output: web
     - title: Construcción
-      url: https://vazeri.github.io/cueva-digital/PowerSupply.html#conclusion
+      url: /PowerSupply.html#conclusion
       output: web
     - title: Pruebas
       url: /PS3.html
