@@ -20,8 +20,8 @@ summary: These links will help you navigate faster about the content on this sec
                 </div>
                 <div class="panel-body">
                     <h4>Documents</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p></p>
+                    <a href="#" class="btn btn-primary">Find</a>
                 </div>
             </div>
         </div>
@@ -35,8 +35,8 @@ summary: These links will help you navigate faster about the content on this sec
                 </div>
                 <div class="panel-body">
                     <h4>Books</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p></p>
+                    <a href="#" class="btn btn-primary">Learn</a>
                 </div>
             </div>
         </div>
@@ -50,8 +50,8 @@ summary: These links will help you navigate faster about the content on this sec
                 </div>
                 <div class="panel-body">
                     <h4>Articles</h4>
-                    <p>Some white papers worth reading.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p></p>
+                    <a href="#" class="btn btn-primary">Read</a>
                 </div>
             </div>
         </div>
@@ -65,8 +65,8 @@ summary: These links will help you navigate faster about the content on this sec
                 </div>
                 <div class="panel-body">
                     <h4>Videos</h4>
-                    <p>Some videos I believe worth sharing.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p></p>
+                    <a href="#" class="btn btn-primary">Watch</a>
                 </div>
             </div>
         </div>
