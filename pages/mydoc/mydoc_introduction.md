@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: 10A Power Supply
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction.html
+permalink: 10A-power-supply.html
 folder: mydoc
 resume: This article was published on https://www.instructables.com/id/10Amp-Linear-Power-Supply/
 ---
