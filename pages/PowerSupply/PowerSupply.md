@@ -7,14 +7,18 @@ permalink: PowerSupply.html
 folder: PowerSupply
 ---
 
- ## Introduction
+
+{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+
+
+## Introduction
 
 Why do it for 3 when we can design for 10?! At college we were in charge of designing a 3 Amp power supply, but I was seeking for a challenge, not a grade!
 
- ## Design
+## Design
 Overcomplicating this kind of “simple” projects can make your life a bit harder but way more exiting, and the rewards just have no price, you will also learn way more than doing a small 3 Amp power supply, fortunately I had a good and experienced mentor to guide me, Lopez Hernandez Jose Antonio from the Investigation and Technologic Innovation Center (CIITEC) in Mexico City.
 
- ## Conclusion 
+## Conclusion 
  
 I completed the project in time thanks to some administrative and economic planning technics , the right tools and a bit of will power
 
@@ -30,9 +34,6 @@ Along the start of each step I will be adding underlined text where I warn about
 
 Every single file used to make the power supply is in my GitHub Repository feel free to use it at your discretion, hopefully you can do it better, smaller, cheaper, or why not even bigger!
 
-
-
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
 
 ## Build the Theme
 
